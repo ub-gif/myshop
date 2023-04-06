@@ -18,3 +18,10 @@ Python 3.8+
 Django 4.1.7
 
 具体 python 在 requirements.txt
+
+shop对应用来网站架构，首页home，其他
+item对应商品管理
+
+home view. URL http://127.0.0.1:8000/
+items view. URL http://127.0.0.1:8000/items/
+detail view. URL http://127.0.0.1:8000/items/<pk>/
